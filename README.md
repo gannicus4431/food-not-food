@@ -1,4 +1,4 @@
 # food-not-food
 Machine Learning powered web app
 
-See notes.
+See notes on jupyter/roam.
